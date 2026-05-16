@@ -1,6 +1,6 @@
 # Programacion-3-GODOT
 
-Dentro de este repositorio se van a subir las actividades correspondientes a la materia Programación III.
+Dentro de este repositorio se van a subir las actividades correspondientes a la materia Programación para Videojuegos III.
 
 Engine utilizado: Godot.
 
