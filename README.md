@@ -1,4 +1,8 @@
 # Programacion-3-GODOT
-En este repositorio adjunto la actividad 2 de Programacion para Videojuegos III.
 
-Nombre del alumno: Facundo Mendoza
+Dentro de este repositorio se van a subir las actividades correspondientes a la materia Programación III.
+
+Engine utilizado: Godot.
+
+Nombre del alumno: Facundo Mendoza.
+Nombre del docente: Emanuel Segretin.
